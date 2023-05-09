@@ -179,8 +179,8 @@ No Error Ticket!
 
 🗜 **DevOps**
 
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/AWS Application Load Balancer-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS Auto Scaling-6DB33F?style=flat&logo=&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS S3-FF9900?style=flat&logo=amazons3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS Application Load Balancer-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS Auto Scaling-FF9900?style=flat&logo=&logoColor=white"/>  
 <img src="https://img.shields.io/badge/AWS Code Delploy-6DB33F?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub Actions-F05032?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
 
 ⚖ **Test**
