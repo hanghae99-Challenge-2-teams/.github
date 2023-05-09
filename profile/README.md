@@ -178,7 +178,7 @@ No Error Ticket!
 🔩 **DB**
 
 - MySQL (AWS RDS, db.t4g.micro)
-- Redis (AWS ElastiCache****)****
+- Redis (AWS ElastiCache)
 
 🗜 **DevOps**
 
@@ -245,6 +245,7 @@ No Error Ticket!
 
 </aside>
 <br>
+
 [성능개선 항목 보러가기](https://www.notion.so/17f7b104d38e40aaa75f1bd8d6dc9619)
 
 ---
