@@ -217,7 +217,7 @@ No Error Ticket!
 ![Untitled (2)](https://user-images.githubusercontent.com/74438259/236972366-5cdbcbd9-ee03-4608-90d2-10e1ecf6e558.png)
 ---
 
-# 👾05 | Trouble Shooting
+# 👾 Trouble Shooting
 
 ### 🌟 예매 서비스 로직에서 데이터 무결성을 지키며 응답속도와 TPS 개선 🌟
 
