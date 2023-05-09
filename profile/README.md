@@ -28,6 +28,14 @@ No Error Ticket!
 1000 TPS의 처리량으로 평균 응답속도 약 1초 내외로 Error 없이 운영 중입니다. 
 ```
 
+# 👨‍👨‍👧‍👦 Team
+
+| 이름 | GITHUB |
+|--|--|
+| 장진혁🔰 | https://github.com/jangjh45 |
+| 김건율 | https://github.com/ChoonB  |
+| 서성혁 | https://github.com/dltngurxodud |
+| 이유진 | https://github.com/Yujin-17 |
 ---
 
 # 💻주요기능
@@ -144,7 +152,7 @@ No Error Ticket!
 
 ---
 
-# 📚04 | 기술 스택
+# 📚 기술 스택
 
 ## ⚙ Architecture 구성도
 ![neticket3](https://user-images.githubusercontent.com/74438259/236971428-202c450b-330a-4cd1-a49f-99722605069a.png)
@@ -228,7 +236,7 @@ No Error Ticket!
 
 ---
 
-# 🚀06 | 성능 개선
+# 🚀 성능 개선
 
 <aside>
 🛠 저희는 트러블 슈팅의 각 단계에서 성능이 어느 정도까지 개선되었는지 알아보기 위해,<br>
@@ -241,11 +249,3 @@ No Error Ticket!
 
 ---
 
-# 👨‍👨‍👧‍👦07 | Team
-
-| - | 이름 | GITHUB |
-|--|--|--|
-| BE | 장진혁🔰 | https://github.com/jangjh45 |
-| BE | 김건율 | https://github.com/ChoonB  |
-| BE, FE | 서성혁 | https://github.com/dltngurxodud |
-| BE, FE | 이유진 | https://github.com/Yujin-17 |
